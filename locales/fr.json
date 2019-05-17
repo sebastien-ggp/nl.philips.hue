@@ -1,0 +1,16 @@
+{
+	"pair": {
+		"select_bridge": {
+			"title": "Selectionnez votre Pont Philips Hue",
+			"no_bridges": "Aucun pont Philips Hue n'a été trouvé."
+		},
+		"press_button": {
+			"title": "Appuyez sur le bouton",
+			"description": "Appuyez sur le bouton de votre pont Philips Hue"
+		}
+	},
+	"loading": "Recherche d'un Pont Philips Hue...",
+	"no_bridges": "Aucun Pont connecté",
+	"unreachable": "Inaccessible",
+	"all_lights": "Toutes les lumières"
+}
